@@ -1,4 +1,4 @@
-# Contributing to Husky Robotics – Club Resources
+# 🤝 Contributing to Husky Robotics – Club Resources
 
 Welcome! We're excited you're interested in contributing to Husky Robotics. This repository is a central hub for documentation, templates, and internal tools that support our club's operations.
 
