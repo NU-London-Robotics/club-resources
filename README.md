@@ -1,4 +1,4 @@
-# club-resources
+# Club-resources
 General information
 
 # Husky Robotics – Club Resources
@@ -7,11 +7,11 @@ Welcome to the official resource hub for Husky Robotics at Northeastern Universi
 
 ## What's Inside
 
-- `docs/` – Onboarding guides, meeting notes, safety protocols
-- `branding/` – Logos, slide templates, posters
-- `templates/` – Issue templates
-- `resources.md` – Curated list of tools, tutorials, and suppliers
-- `project-ideas.md` – Running list of project ideas and team leads
+- [docs/](docs/) – Onboarding guides, meeting notes, safety protocols
+- [branding/](branding/)` – Logos, slide templates, posters
+- [templates/](templates/) – Issue templates
+- [resources/](resources/) – Curated list of tools, tutorials, and suppliers
+- [project-ideas.md](project-ideas.md) – Running list of competitions, project ideas and team leads
 
 ## 🤝 Contributing
 
